@@ -1,6 +1,6 @@
 Leandro Farias - RM566488
 
-# 🧠 EthicalFlow: Assistente de Produtividade com IA Ética (FIWARE)
+# 🧠 EthosFlow: Assistente de Produtividade com IA Ética (FIWARE)
 
 ## 📖 Sobre o Projeto
 O EthosFlow é um "copiloto" de trabalho que não apenas gerencia tarefas, mas protege o usuário contra burnout. Ele utiliza a arquitetura **FIWARE** para processar contexto em tempo real e um motor de decisão em Python que explica o "porquê" de cada priorização.
