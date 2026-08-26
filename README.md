@@ -22,7 +22,3 @@ O sistema roda em uma Máquina Virtual Azure com a seguinte estrutura:
 
 
 
-
-## 🎥 Vídeo de Demonstração
-
-[[Link para o vídeo no YouTube](https://youtu.be/k0YHFNbotj8)]
